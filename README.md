@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=TaeSubLee&reversal=false)
 
-# 안녕하세요! 황승민입니다.
+# 이태섭입니다
 <br/><br>
 
 ### 📚 STACKS 📚
