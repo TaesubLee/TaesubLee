@@ -33,10 +33,6 @@
 <a href="mailto:subseobhada@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
 </a>
-<br/> <br/>
- 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaesubLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/che2ese)
 
 
 </div>
