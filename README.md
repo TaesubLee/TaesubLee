@@ -24,9 +24,19 @@
 ![TaesubLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaesubLee&show_icons=true&theme=merko)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=test123server)](https://solved.ac/test123server)
 <br/><br>
+ #### 📝: Study Log
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaesubLee&layout=compact&theme=highcontrast)  
+
+ <br/> <br/>
+
 ### 📞 CONTACT 📞
 <a href="mailto:subseobhada@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
 </a>
+<br/> <br/>
+ 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fche2ese&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/che2ese)
+
 
 </div>
