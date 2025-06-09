@@ -31,7 +31,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=test123server)](https://solved.ac/test123server/)
 
  <br/>
- <br/>>
+ <br/>
  
  #### 📝: Study Log
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaesubLee&layout=compact&theme=highcontrast)  
